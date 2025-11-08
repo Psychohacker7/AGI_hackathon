@@ -1,4 +1,4 @@
-```markdown
+
 # AURA - Adverse Event Unit Relational Analyzer
 
 Multi-agent SLM system for real-time clinical trial safety monitoring with zero context loss through structured memory layers.
@@ -386,4 +386,3 @@ Open Source - MIT
 
 ```
 
-```
